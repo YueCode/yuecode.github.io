@@ -1,7 +1,10 @@
 ## 欢迎来到 YueCode 团队主页
 我们是腾讯云论坛的版主，在进行日常的版主工作之外，会选择开发一些工具，来帮助人们更好的使用腾讯云。
 ### 作品
-- 微视频（UVS） SDK For Laravel  -  [php-uvs](https://github.com/YueCode/php-uvs)
+- Qcloudapi服务器内存图表 示例   -  [Qcloudapi_mem_used](https://github.com/YueCode/Qcloudapi_mem_used) By  [@Static7](https://github.com/static7)
+- Thinkphp 下的COS 操作实践   -  [ThinkPHP-Cos-Example](https://github.com/YueCode/ThinkPHP-Cos-Example) By  [@Static7](https://github.com/static7)
+- 微视频（UVS） SDK For Laravel  -  [php-uvs](https://github.com/YueCode/php-uvs) By [@Bestony](https://github.com/bestony)
+- OneThink 基于腾讯XinGe Push插件，支持区分设备Push  -[XGPush](https://github.com/YueCode/XGPush)  By [@Bestony](https://github.com/bestony)
 
 ### 联系我们
 - QQ群：475022983
