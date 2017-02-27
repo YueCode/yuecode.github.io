@@ -4,7 +4,7 @@
 - Qcloudapi服务器内存图表 示例   -  [Qcloudapi_mem_used](https://github.com/YueCode/Qcloudapi_mem_used) By  [@Static7](https://github.com/static7)
 - Thinkphp 下的COS 操作实践   -  [ThinkPHP-Cos-Example](https://github.com/YueCode/ThinkPHP-Cos-Example) By  [@Static7](https://github.com/static7)
 - 微视频（UVS） SDK For Laravel  -  [php-uvs](https://github.com/YueCode/php-uvs) By [@Bestony](https://github.com/bestony)
-- OneThink 基于腾讯XinGe Push插件，支持区分设备Push  -[XGPush](https://github.com/YueCode/XGPush)  By [@Bestony](https://github.com/bestony)
+- OneThink 基于腾讯信鸽推送插件  -[XGPush](https://github.com/YueCode/XGPush)  By [@Bestony](https://github.com/bestony)
 
 ### 联系我们
 - QQ群：475022983
